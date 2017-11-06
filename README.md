@@ -1,2 +1,2 @@
 # dialog_builder
-A Python Module to build dialogflowagent
+A Python Module to build dialogflow agent
