@@ -8,5 +8,5 @@ else
     source ${DIRECTORY}/bin/activate
 fi
 
-export APP_NAME="dialog-builder"
-export APP_ENV="${APP_ENV}-${USER}"
+export APP_NAME="DialogBuilder"
+export APP_ENV="DEV-${USER}"
