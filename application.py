@@ -28,7 +28,7 @@ def main():
 
     while True:
         print(u"> ", end=u"")
-        user_message = raw_input()
+        user_message = input()
 
         if user_message == u"exit":
             break
