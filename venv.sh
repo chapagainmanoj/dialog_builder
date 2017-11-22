@@ -10,3 +10,4 @@ fi
 
 export APP_NAME="DialogBuilder"
 export APP_ENV="DEV-${USER}"
+export GOOGLE_APPLICATION_CREDENTIALS=google_app_config/proto-bot.json
