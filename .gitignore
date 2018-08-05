@@ -91,6 +91,7 @@ virtualenvs/
 ENV/
 env.bak/
 venv.bak/
+google_app_config
 
 # Spyder project settings
 .spyderproject
